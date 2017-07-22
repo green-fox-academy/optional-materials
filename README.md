@@ -1,1 +1,29 @@
-# optional-materials-august
+# Optional material themes
+
+  - Data structures
+    - ADT/ADS
+    - implementations (linked list, stack, graph, set, etc.)
+  - Streams, advanced file-io
+  - Advanced threading
+  - Lambda
+  - Java9
+  - Advanced exception handling
+    - common exceptions
+    - finally
+  - Graphs
+    - types and basics
+    - graph algorithms
+  - State machine, turing machine
+  - Matix geometry, linear algebra
+  - Basic bash scripting
+  - Relational algebra
+  - Semaphores
+  - Game theory in computer science
+  - Play with languages
+    - python
+    - ruby
+    - c++
+    - scala
+    - js
+    - Delphi
+    - kotlin
