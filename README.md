@@ -5,6 +5,10 @@
     - implementations (linked list, stack, graph, set, etc.)
   - Streams, advanced file-io
   - Advanced threading
+    - Issues of Concurrency & tactics to handling them
+      - ThreadPools
+      - Semaphores
+      - Locks
   - Lambda
   - Java9
   - Advanced exception handling
@@ -17,7 +21,6 @@
   - Matix geometry, linear algebra
   - Basic bash scripting
   - Relational algebra
-  - Semaphores
   - Game theory in computer science
   - Play with languages
     - python
@@ -27,3 +30,14 @@
     - js
     - Delphi
     - kotlin
+  - Intro to classic Design Patterns
+    - Singleton
+    - Abstract Factory
+    - Interpreter
+    - Wrapper
+    - Facade
+    - Observer / Listener
+    - Mediator
+    - Proxy
+    - Composite
+    - Command & Chain of Responsibility
