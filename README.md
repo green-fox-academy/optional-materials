@@ -1,8 +1,6 @@
 # Optional material themes
 
-  - Data structures
-    - ADT/ADS
-    - implementations (linked list, stack, graph, set, etc.)
+  - [Data structures](data-structures/data-structures.md)
   - Streams, advanced file-io
   - Advanced threading
     - Issues of Concurrency & tactics to handling them
