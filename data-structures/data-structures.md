@@ -32,6 +32,34 @@
         - write a function that takes a list of `{` and `}` braces, and determines if is it correctly parenthesized. Hint:  for left delimiters, push onto stack; for right delimiters, pop from stack and check whether popped element matches right delimiter
 
 
+- Implement queue
+    - functions:
+        - isempty() -- to check whether Queue is empty or not
+        - isfull()  -- to check wheter Queue is full or not
+        - enqueue(x) -- push element x onto queue
+        - dequeue() -- removes element in queue from front end
+        - front() -- returns element at front of queue
+    - exercises: 
+        - create the previous exercises again but use queue instead of stack
 
+- Implement linked list
+    - functions:
+        - isempty() -- to check whether the list is empty or not
+        - get(i) -- return the i. node
+        - put(i) -- put element to the list
+        - remove(i) -- remove the i. node
+    - exercises:
+        - write a count() function that counts the number of times a given int occurs in a list
+        - write a length() function that iterates the list and returns it's length
+        - write a sort() function that can sort a linked list
 
-
+- Implement binary tree
+    - functions:
+        - insert(n) -- add a node with value n 
+        - find(n) -- find a node with value n
+        - delete(n) -- delete a node with value n 
+    - exercises:
+        - create a function that traverse a tree with inorder traversal
+        - create a function that traverse a tree with postorder traversal
+        - create a function that traverse a tree with preorder traversal
+        
