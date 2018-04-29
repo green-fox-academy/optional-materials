@@ -1,5 +1,6 @@
 # Optional material themes
 
+  - [General questions](general/general.md)
   - [Data structures](data-structures/data-structures.md)
   - Streams, advanced file-io
   - Advanced threading
