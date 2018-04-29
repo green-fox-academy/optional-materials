@@ -3,7 +3,7 @@
   - [General questions](general/general.md)
   - [Web](web/web.md)
   - [Data structures](data-structures/data-structures.md)
-  - Streams, advanced file-io
+  - [Software architecture](architecture/architecture.md)
   - Advanced threading
     - Issues of Concurrency & tactics to handling them
       - ThreadPools
