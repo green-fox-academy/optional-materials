@@ -1,4 +1,8 @@
-# Optional material themes
+# Optional materials
+
+A bunch of optional materials. Check the [booklist](books.md) also.
+
+## Topics
 
   - [General questions](general/general.md)
   - [Web](web/web.md)
