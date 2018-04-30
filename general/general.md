@@ -5,6 +5,6 @@
 - [Virtual function](https://en.wikipedia.org/wiki/Virtual_function) (Overridable function)
 - [Virtual method table](https://en.wikipedia.org/wiki/Virtual_method_table)
 - [Dynamic binding](https://en.wikipedia.org/wiki/Late_binding) (Actual method implementation invoked is determined at run time based on the class of the object, not the type of the variable or expression)
-* How does [*garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)) work? (Mark and sweep: mark: traverse object graph starting from root objects, sweep: garbage collect unmarked objects. Optimizations: young/old generations, incremental mark and sweep)
+- [garbage collector](https://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 - [Tail recursion](https://en.wikipedia.org/wiki/Tail_call) (A tail call is a subroutine call performed as the final action of a procedure)
 - [Semantic versioning](http://semver.org)
