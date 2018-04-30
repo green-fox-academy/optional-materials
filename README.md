@@ -8,6 +8,7 @@ A bunch of optional materials. Check this [booklist](https://github.com/EbookFou
   - [Web](web/web.md)
   - [Data structures](data-structures/data-structures.md)
   - [Software architecture](architecture/architecture.md)
+  - [Math](math/math.md)
   - Advanced threading
     - Issues of Concurrency & tactics to handling them
       - ThreadPools
