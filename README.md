@@ -1,6 +1,6 @@
 # Optional materials
 
-A bunch of optional materials. Check the [booklist](books.md) also.
+A bunch of optional materials. Check this [booklist](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) also.
 
 ## Topics
 
