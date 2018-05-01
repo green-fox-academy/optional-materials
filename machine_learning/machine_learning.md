@@ -1,5 +1,7 @@
 # Machine learning
 
+A little orientation: [mindmap](mindmap.pdf)
+
 ## Machine learning overview
 
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
