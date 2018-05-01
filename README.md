@@ -10,6 +10,7 @@ A bunch of optional materials. Check this [booklist](https://github.com/EbookFou
   - [Software architecture](architecture/architecture.md)
   - [Math](math/math.md)
   - [Testing](test/test.md)
+  - [Machine learning](machine_learning/machine_learning.md)
 
 ## Videos (if you have time)
 
