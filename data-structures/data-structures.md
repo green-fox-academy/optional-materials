@@ -1,7 +1,8 @@
 # Data Structures
 
 
-### Materials
+## Materials
+
 | Material | Time |
 |:---------|-----:|
 | [Why Study Data Structures and Abstract Data Types?](https://interactivepython.org/runestone/static/pythonds/Introduction/WhyStudyDataStructuresandAbstractDataTypes.html) | reading |
@@ -17,7 +18,12 @@
 | [Binary trees ](https://www.youtube.com/watch?v=H5JubkIy_p8) | 16:16 |
 | [Binary search trees](https://www.youtube.com/watch?v=pYT9F8_LFTM) | 19:27 |
 
-### Exercises
+## Other Videos
+
+- [UC Berkeley 61B (Spring 2014): Data Structures (25 videos)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd)
+- [MIT 6.851: Advanced Data Structures (22 videos)](https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=1)
+
+## Exercises
 
 - Implement stack
     - functions:

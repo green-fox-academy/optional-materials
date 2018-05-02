@@ -50,7 +50,9 @@ A little orientation: [mindmap](mindmap.pdf)
 - [21 Deep Learning Videos, Tutorials & Courses on Youtube from 2016](https://www.analyticsvidhya.com/blog/2016/12/21-deep-learning-videos-tutorials-courses-on-youtube-from-2016/)
 - [30 Top Videos, Tutorials & Courses on Machine Learning & Artificial Intelligence from 2016](https://www.analyticsvidhya.com/blog/2016/12/30-top-videos-tutorials-courses-on-machine-learning-artificial-intelligence-from-2016/)
 - [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
--  [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
+- [Practical Deep Learning For Coders Version 2 (PyTorch)](http://forums.fast.ai/t/welcome-to-part-1-v2/5787)
+- [MIT 6.034 Artificial Intelligence, Fall 2010 (30 videos)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+
 
 ## Projects to check and contribute
 
