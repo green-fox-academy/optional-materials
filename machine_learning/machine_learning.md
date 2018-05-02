@@ -1,4 +1,4 @@
-# Machine learning
+# 🤖 Machine learning
 
 A little orientation: [mindmap](mindmap.pdf)
 
