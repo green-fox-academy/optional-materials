@@ -50,8 +50,6 @@ const isInteger = value => value == Number.parseInt(value, 10)
 // Array.prototype.forEach = () => console.log('cica');
 // console.log([1,2,3,4].forEach())
 
-
-
 const ajax = (command, url, callback, data=null) => {
   let xhr = new XMLHttpRequest();
   // xhr.readyState === 0
@@ -73,10 +71,3 @@ const ajax = (command, url, callback, data=null) => {
   xhr.send(JSON.stringify(data));
   // xhr.readyState === 2
 }
-
-
-
-
-
-
-
