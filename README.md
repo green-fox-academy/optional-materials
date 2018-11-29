@@ -4,6 +4,8 @@ A bunch of optional materials. Check this [booklist](https://github.com/EbookFou
 
 ## Topics
 
+  - Interview preparation:
+      - JavaScript [questions](interview/js/interview.md) and [snippets](interview/js/interview.js)
   - [General questions](general/general.md)
   - [Web](web/web.md)
   - [Data structures](data-structures/data-structures.md)
